@@ -2,14 +2,18 @@ body{
     background-color: black;
 }
 h1{
-    color: crimson;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    font-family: 'Rampart One';
+    text-align: center;
+    font-size: 5rem;
 }
 h2{
-    color: crimson;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    color: green;
+    font-family: 'Rampart One';
+    font-size: 3rem;
 }
 p{
-    color:beige;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    color: darkolivegreen;
+    font-family: 'Rampart One';
+    font-size: 2rem;
 }
